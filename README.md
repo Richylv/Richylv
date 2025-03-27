@@ -1,3 +1,4 @@
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ## Hi there 👋
 
 <!--
@@ -10,8 +11,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![Visualstudio](https://img.shields.io/badge/visualstudio-3776AB?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-#### 📫 Where to find me:
+#### 📫 Contact me:
 
+- r.lzn@outlook.com
 - [linkedIn](www.linkedin.com/in/ricardo-lozano-aa1475321)
 
